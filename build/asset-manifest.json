@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarsGame/static/css/main.db88f655.css",
+    "main.js": "/StarsGame/static/js/main.692692c5.js",
+    "index.html": "/StarsGame/index.html",
+    "main.db88f655.css.map": "/StarsGame/static/css/main.db88f655.css.map",
+    "main.692692c5.js.map": "/StarsGame/static/js/main.692692c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db88f655.css",
+    "static/js/main.692692c5.js"
+  ]
+}
