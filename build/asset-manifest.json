@@ -6,8 +6,5 @@
     "main.db88f655.css.map": "/StarsGame/static/css/main.db88f655.css.map",
     "main.692692c5.js.map": "/StarsGame/static/js/main.692692c5.js.map"
   },
-  "entrypoints": [
-    "static/css/main.db88f655.css",
-    "static/js/main.692692c5.js"
-  ]
+  "entrypoints": ["static/css/main.db88f655.css", "static/js/main.692692c5.js"]
 }
