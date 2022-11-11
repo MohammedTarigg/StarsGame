@@ -6,7 +6,7 @@ import StarMatch from "./components/StarMatch";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Intropage />} />
+      <Route path="/StarsGame" element={<Intropage />} />
       <Route path="/StarMatch" element={<StarMatch />} />
     </Routes>
   );
