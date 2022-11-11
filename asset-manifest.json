@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/StarsGame/static/css/main.7a4b1f70.css",
-    "main.js": "/StarsGame/static/js/main.44403329.js",
+    "main.js": "/StarsGame/static/js/main.9b12eb96.js",
     "index.html": "/StarsGame/index.html",
     "main.7a4b1f70.css.map": "/StarsGame/static/css/main.7a4b1f70.css.map",
-    "main.44403329.js.map": "/StarsGame/static/js/main.44403329.js.map"
+    "main.9b12eb96.js.map": "/StarsGame/static/js/main.9b12eb96.js.map"
   },
   "entrypoints": [
     "static/css/main.7a4b1f70.css",
-    "static/js/main.44403329.js"
+    "static/js/main.9b12eb96.js"
   ]
 }
