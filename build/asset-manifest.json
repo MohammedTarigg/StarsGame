@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/StarsGame/static/css/main.db88f655.css",
-    "main.js": "/StarsGame/static/js/main.692692c5.js",
+    "main.css": "/StarsGame/static/css/main.7a4b1f70.css",
+    "main.js": "/StarsGame/static/js/main.44403329.js",
     "index.html": "/StarsGame/index.html",
-    "main.db88f655.css.map": "/StarsGame/static/css/main.db88f655.css.map",
-    "main.692692c5.js.map": "/StarsGame/static/js/main.692692c5.js.map"
+    "main.7a4b1f70.css.map": "/StarsGame/static/css/main.7a4b1f70.css.map",
+    "main.44403329.js.map": "/StarsGame/static/js/main.44403329.js.map"
   },
-  "entrypoints": ["static/css/main.db88f655.css", "static/js/main.692692c5.js"]
+  "entrypoints": [
+    "static/css/main.7a4b1f70.css",
+    "static/js/main.44403329.js"
+  ]
 }
