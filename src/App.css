@@ -72,7 +72,7 @@
 
 .star {
   display: inline-block;
-  margin: 0 15px;
+  margin: 0 5px;
 }
 
 .star:after {
